@@ -16,3 +16,7 @@
 * Mystem
 * AntConc
 * Gephi
+
+## 1 часть
+
+

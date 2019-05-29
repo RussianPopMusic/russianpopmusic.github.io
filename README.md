@@ -1,4 +1,4 @@
-# russianpopmusic.github.io
+# [Эволюция поэтики русской попсы (1996-2018)](https://russianpopmusic.github.io/index.html)
 
 Проект по Цифровой Грамотности группы "Фонаты фанетики"
 

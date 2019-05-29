@@ -123,7 +123,7 @@ Quest Pistols — «Белая стрекоза любви»
 Основная тематика песен 2015 года - разрыв, любовная неудача, но частотные слова не полностью с ней согласованы. Так, в списке присутствует слово “одиночество” наравне со словами “улыбка” и “улыбаться”. 
 
 
-![alt text](https://github.com/RussianPopMusic/russianpopmusic.github.io/blob/master/n23.jpg)
+![alt text](https://github.com/RussianPopMusic/russianpopmusic.github.io/blob/master/n16.jpg)
 В 2016 году превалируют песни о счастливой любви, а в ключевых словах нет ничего неподходящего по тематике.
 
 

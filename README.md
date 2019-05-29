@@ -19,4 +19,6 @@
 
 ## 1 часть
 
+![alt text](https://github.com/RussianPopMusic/russianpopmusic.github.io/blob/master/k1.jpg)
+
 
